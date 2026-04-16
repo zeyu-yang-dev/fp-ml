@@ -1,8 +1,9 @@
 # RealNVP 2D
 
-A study of **RealNVP (Real-valued Non-Volume Preserving)**, 
+A 2D implementation of **RealNVP (Real-valued Non-Volume Preserving)**, 
 a normalizing flow model that learns invertible transformations between complex data distributions and simple latent distributions, 
-enabling exact density estimation and sampling, demonstrated in two dimensions.
+enabling density estimation and sampling.
+
 
 This repository contains two Jupyter notebooks:
 
